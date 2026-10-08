@@ -2,57 +2,10 @@
 title: "Curriculum Vitae"
 ---
 
-[Download CV (PDF)](cv.pdf){.btn .btn-primary}
+[Download CV (PDF)](cv.pdf){.btn-hero}
 
-## Education
-
-**PhD Candidate in Economics**, University of Valencia · 2024–present
-: Economics of education; teaching quality and pedagogical practices.
-
-**MSc in Economics**, University of Valencia · 2018–2019
-
-**BSc in Economics**, University of Valencia · 2014–2018
-: Including an Erasmus exchange year at the University of Lille 1 — Sciences et Technologies, France (2017–2018).
-
-## Research Fields
-
-Economics of education & human capital · Applied microeconometrics · Causal inference · Public policy evaluation
-
-## Work in Progress
-
-- **Active and Passive Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023.**
-- **Teachers' Work-related Mental Health and Student Academic Performance.**
-
-See the [Research](research.qmd) page for details.
-
-## Presentations
-
-- **2026** — LESE – Lisbon Economics and Statistics of Education, Carcavelos, Lisbon (Portugal).
-- **2025** — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy).
-
-## Research Projects
-
-**Challenges and Opportunities of Population Ageing** (CPI-24-839) · 2024–present
-: *Determinants of Public Expenditure Needs in a Decentralized State.* Grants for the support of research groups in public economics. PI: José Manuel Pastor Monsálvez.
-
-## Teaching
-
-**Introduction to Economics** · 2025–2026
-: Undergraduate — Faculty of Economics, Department of Economic Analysis, University of Valencia.
-
-## Professional Experience
-
-**Sovereign & Sub-Sovereign Research Analyst**, EthiFinance Ratings, Madrid · 2023–2024
-: Evaluated sovereign and sub-sovereign creditworthiness, incorporating ESG factors into the rating process; assessed public financing structures and fiscal sustainability across European countries.
-
-**Senior Consultant, Risk Advisory (FSI)**, Deloitte, Madrid · 2019–2023
-: Analyzed loan-loss provisions under IFRS 9 models and contributed to Basel Pillar III reporting for European financial institutions.
-
-## Skills & Languages
-
-- **Software:** Stata, R, LaTeX, Microsoft Office
-- **Languages:** Spanish (native) · Valencian (C1) · French (B2) · English (C1)
-
-## Contact
-
-[jose.r.juanes@uv.es](mailto:jose.r.juanes@uv.es) · University of Valencia
+```{=html}
+<iframe src="cv.pdf#view=FitH" title="Curriculum Vitae"
+        style="width:100%; height:1050px; border:1px solid #e3e7ea; border-radius:10px; margin-top:1.25rem;">
+</iframe>
+```

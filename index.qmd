@@ -1,45 +1,19 @@
 ---
-title: "José Ramón Juanes García"
-subtitle: "PhD Candidate in Economics · University of Valencia"
 pagetitle: "José Ramón Juanes García"
-about:
-  template: trestles
-  image: profile.svg          # <-- EDITA: sustituye por tu foto (profile.jpg) y cambia esta línea
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:jose.r.juanes@uv.es
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/joseramonjuanes
-    - icon: file-earmark-pdf
-      text: CV
-      href: cv.pdf
-    # Cuando los tengas, añade aquí Google Scholar / ORCID / GitHub.
+toc: false
 ---
 
-I am a PhD candidate in Economics at the **University of Valencia**. My research
-lies in the **economics of education and human capital development**, with a
-focus on **teaching quality and pedagogical practices**, which I study using
-**causal-inference methods**.
-
-My current work examines how *active* and *passive* teaching practices affect
-student achievement — using within-student evidence from **TIMSS 2023** — and
-how teachers' work-related mental health relates to student outcomes.
-
-Before returning to academia, I worked as a research analyst and risk-advisory
-consultant in the financial sector (EthiFinance Ratings, Deloitte).
-
-### Research interests
-
-- Economics of education & human capital
-- Teaching quality and pedagogical practices
-- Applied microeconometrics · causal inference
-- Public policy evaluation
-
-### News
-
-- **2026** — Presenting at **LESE** (Lisbon Economics and Statistics of Education), Lisbon.
-- **2025** — Presented at the **XXXIII AEDE Meeting** (Economics of Education Association), Milan.
+```{=html}
+<section class="hero">
+  <div class="hero-text">
+    <p class="eyebrow">PhD Candidate in Economics · University of Valencia</p>
+    <h1 class="hero-name"><span class="name-1">José Ramón</span> <span class="name-2">Juanes García</span></h1>
+    <p class="hero-buttons">
+      <a class="btn-hero" href="https://www.linkedin.com/in/joseramonjuanes">LinkedIn</a>
+      <a class="btn-hero outline" href="mailto:jose.r.juanes@uv.es">Contact</a>
+      <a class="btn-hero outline" href="cv.pdf">CV</a>
+    </p>
+  </div>
+  <div class="hero-photo"><img src="profile.jpg" alt="José Ramón Juanes García"></div>
+</section>
+```

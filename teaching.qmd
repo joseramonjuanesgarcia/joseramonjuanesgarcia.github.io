@@ -2,11 +2,4 @@
 title: "Teaching"
 ---
 
-## University of Valencia
-
-**Introduction to Economics** · 2025–2026
-: Undergraduate course — Faculty of Economics, Department of Economic Analysis.
-
-## Teaching Interests
-
-Economics of education · Microeconomics · Statistics and econometrics
+- **Introduction to Economics** · University of Valencia · 2025–2026 — Undergraduate course.

@@ -2,39 +2,32 @@
 title: "Research"
 ---
 
-## Work in Progress
-
-### Active and Passive Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023
-
-*Work in progress*
-
-Using within-student variation across subjects in **TIMSS 2023**, this paper
-studies how active versus passive teaching practices relate to student
-achievement.
-
-::: {.callout-note collapse="true" appearance="simple" title="Abstract"}
-*(Añade aquí el abstract cuando lo tengas.)*
-:::
-
-<!-- Cuando tengas un borrador en PDF, crea una carpeta /papers/ y añade el botón:
-[PDF](papers/timss.pdf){.btn .btn-outline-primary .btn-sm} -->
-
----
+## Working Paper
 
 ### Teachers' Work-related Mental Health and Student Academic Performance
 
-*Work in progress*
+Increased stress and burnout have raised policy concerns about teachers' work-related
+mental health and its consequences for students' outcomes. Using PISA 2022, which for the
+first time provides information on teachers' mental health, we analyse whether students in
+schools with high shares of teachers reporting that their job affects their mental health
+perform worse. We implement a quasi-experimental approach (propensity score weighting)
+combined with multilevel models. Our results indicate that students in high-exposure schools
+score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these
+students report lower levels of motivation and self-efficacy. This gap concentrates in schools
+where at least a third of teachers report such problems, and the estimates remain negative
+under stricter thresholds and an alternative matching estimator. Thus, as a policy
+recommendation, we suggest using teacher-reported mental health as a low-cost indicator to
+target support toward these schools.
 
-This project studies the relationship between teachers' work-related mental
-health and their students' academic performance.
+## Work in Progress
 
-::: {.callout-note collapse="true" appearance="simple" title="Abstract"}
-*(Añade aquí el abstract cuando lo tengas.)*
-:::
+### Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023
 
----
+*Work in progress.*
 
-## Presentations
+## Conferences & Workshops
 
-- **2026** — LESE – Lisbon Economics and Statistics of Education, Carcavelos, Lisbon (Portugal).
+- **2026** — LESE – Lisbon Economics and Statistics of Education, Lisbon (Portugal).
+- **2026** — VI Workshop of Young Researchers, Department of Economic Analysis, University of Valencia.
+- **2025** — I Valencian Economics of Education Conference, University of Valencia.
 - **2025** — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy).

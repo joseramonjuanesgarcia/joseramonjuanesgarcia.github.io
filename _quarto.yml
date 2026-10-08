@@ -1,6 +1,5 @@
 # ============================================================
 #  CONFIGURACIÓN DEL SITIO  ·  edita lo marcado con  # <-- EDITA
-#  Docs: https://quarto.org/docs/websites/
 # ============================================================
 
 project:
@@ -11,12 +10,14 @@ website:
   title: "José Ramón Juanes García"
   description: "PhD Candidate in Economics — University of Valencia"
   site-url: "https://joseramonjuanesgarcia.github.io"
-  favicon: profile.svg
+  favicon: profile.jpg
+  search: false
 
   navbar:
+    background: light
     pinned: true
     left:
-      - text: "Home"
+      - text: "About"
         href: index.qmd
       - text: "Research"
         href: research.qmd
@@ -31,13 +32,6 @@ website:
       - icon: linkedin
         href: "https://www.linkedin.com/in/joseramonjuanes"
         aria-label: LinkedIn
-      # Cuando los tengas, descomenta y rellena:
-      # - icon: mortarboard-fill
-      #   href: "https://scholar.google.com/citations?user=XXXX"
-      #   aria-label: Google Scholar
-      # - icon: github
-      #   href: "https://github.com/TUUSUARIO"
-      #   aria-label: GitHub
 
   page-footer:
     border: true
