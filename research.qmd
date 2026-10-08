@@ -13,12 +13,12 @@ title: "Research"
 - **Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023**
 
 ::: {.abstract}
-*Work in progress.*
+This project studies how different teaching practices affect student achievement. Using TIMSS 2023 data linking eighth-grade students to their mathematics and science teachers across many countries, it compares more traditional, teacher-led instruction with more participatory practices, exploiting within-student differences across subjects to isolate the role of teaching practices.
 :::
 
 ## Conferences & Workshops
 
 - **2026** — LESE – Lisbon Economics and Statistics of Education, Lisbon (Portugal).
-- **2026** — VI Workshop of Young Researchers, Department of Economic Analysis, University of Valencia.
+- **2026** — VI Workshop de Joves Investigadors del Departament d'Anàlisi Econòmica (Universitat de València).
 - **2025** — I Valencian Economics of Education Conference, University of Valencia.
 - **2025** — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy).

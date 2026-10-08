@@ -14,9 +14,9 @@ website:
   search: false
 
   navbar:
-    background: light
+    background: "#6c9db1"     # <-- color de la barra de arriba (azul)
     pinned: true
-    title: false          # sin el nombre en la barra (evita el enlace duplicado con "About")
+    title: false              # sin el nombre en la barra
     left:
       - text: "About"
         href: index.qmd
@@ -44,6 +44,8 @@ format:
     theme: [cosmo, styles.scss]
     toc: false
     smooth-scroll: true
+    anchor-sections: false      # quita el icono de enlace al pasar por los títulos
+    link-external-icon: false
     link-external-newwindow: true
     grid:
       body-width: 900px

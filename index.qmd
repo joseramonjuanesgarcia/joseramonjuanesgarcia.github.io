@@ -25,6 +25,8 @@ Economic Analysis), working in the **economics of education and human capital
 development**. My research studies how teaching quality, pedagogical practices,
 and education and social policies shape students' outcomes.
 
-Before starting my PhD, I worked for a few years in the private sector — in
-consulting at Deloitte — after which I decided to
-return to academia to pursue research in the economics of education.
+After completing my master's degree, I decided to gain experience in the private
+sector, working at Deloitte, S.A. in Risk Advisory for financial markets, before
+returning to academia to pursue my PhD.
+
+[I gratefully acknowledge the financial support of the Conselleria d'Hisenda i Model Econòmic (HIECPU/2024/6) of the Generalitat Valenciana.]{.funding}
