@@ -1,8 +1,8 @@
 /*-- scss:defaults --*/
 
-// Acento (botones) verde olivo
-$primary:    #556b2f;
-$link-color: #556b2f;
+// ACENTO (botones y enlaces)
+$primary:    #374151;   // GRAFITO
+$link-color: #374151;
 $body-color: #1f2429;
 $body-bg:    #ffffff;
 
@@ -14,20 +14,17 @@ $font-size-root: 18px;
 
 body { line-height: 1.6; -webkit-font-smoothing: antialiased; }
 
-/* ---------- Barra superior (azul) ---------- */
-.navbar { background-color: #6c9db1 !important; border-bottom: none; box-shadow: none; }
-.navbar .nav-link { color: rgba(255,255,255,.9) !important; }
-.navbar .nav-link:hover,
-.navbar .nav-link:focus { color: #fff !important; }
-.navbar .nav-link.active { color: #fff !important; font-weight: 600; }
+/* Barra superior blanca/clara, minimalista */
+.navbar { border-bottom: 1px solid #eceff1; box-shadow: none; }
+.navbar .nav-link.active { color: $primary; }
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* Títulos de sección más pequeños (Work in Progress, Conferences…) */
+/* Títulos de sección más pequeños */
 h2 { font-size: 1.35rem; margin-top: 2rem; }
 
-/* ---------- HERO (portada) ---------- */
+/* ---------- HERO ---------- */
 .hero { display: flex; align-items: center; gap: 2.25rem; margin: 1rem 0 2.5rem; }
 .hero-text  { flex: 1 1 auto; }
 .hero-photo { flex: 0 0 200px; }
@@ -38,12 +35,11 @@ h2 { font-size: 1.35rem; margin-top: 2rem; }
   font-size: .78rem; font-weight: 600; color: #6b7681; margin-bottom: .45rem;
 }
 .hero-name {
-  font-size: clamp(1.5rem, 3.2vw, 2rem);   /* nombre pequeño */
-  font-weight: 700; line-height: 1.15; margin: 0 0 .7rem;
-  color: #1f2429;                           /* nombre todo en negro (sin dos tonos) */
+  font-size: clamp(1.5rem, 3.2vw, 2rem); font-weight: 700;
+  line-height: 1.15; margin: 0 0 .7rem; color: #1f2429;   /* nombre negro */
 }
 
-/* Botones */
+/* Botones (usan el acento) */
 a.btn-hero {
   display: inline-block; padding: .5rem 1.3rem; margin: .25rem .5rem .25rem 0;
   border-radius: 8px; font-weight: 600;
@@ -52,11 +48,9 @@ a.btn-hero {
 a.btn-hero:hover { opacity: .9; text-decoration: none; }
 a.btn-hero.outline { background: transparent; color: $primary !important; }
 
-/* Abstract / resumen con letra más pequeña (Research) */
+/* Textos pequeños */
 .abstract { font-size: .9rem; color: #333; }
-/* Nota pequeña bajo el curso (Teaching) */
 .course-note { font-size: .85rem; color: #6b7681; }
-/* Agradecimiento de financiación (About) */
 .funding { display: block; font-size: .82rem; color: #6b7681; margin-top: 1rem; }
 
 /* ---------- Responsive ---------- */

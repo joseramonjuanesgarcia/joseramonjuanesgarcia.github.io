@@ -14,7 +14,7 @@ website:
   search: false
 
   navbar:
-    background: "#6c9db1"     # <-- color de la barra de arriba (azul)
+    background: light         # barra blanca/clara (minimalista)
     pinned: true
     title: false              # sin el nombre en la barra
     left:
