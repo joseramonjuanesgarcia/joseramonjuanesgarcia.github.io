@@ -16,6 +16,7 @@ website:
   navbar:
     background: light
     pinned: true
+    title: false          # sin el nombre en la barra (evita el enlace duplicado con "About")
     left:
       - text: "About"
         href: index.qmd
@@ -44,8 +45,5 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
-    include-in-header:
-      text: |
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font/Serif/cmun-serif.css">
     grid:
       body-width: 900px

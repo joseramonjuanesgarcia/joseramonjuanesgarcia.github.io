@@ -6,37 +6,34 @@ $link-color: #556b2f;
 $body-color: #1f2429;
 $body-bg:    #ffffff;
 
-// Tipografía estilo LaTeX (Computer Modern) — la fuente se carga en _quarto.yml
-$font-family-base:     "Computer Modern Serif", Georgia, "Times New Roman", serif;
-$headings-font-family: "Computer Modern Serif", Georgia, "Times New Roman", serif;
+// Tipografía sans-serif del sistema (como estaba antes)
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $headings-font-weight: 700;
 $font-size-root: 18px;
 
 /*-- scss:rules --*/
 
-body { line-height: 1.6; }
+body { line-height: 1.6; -webkit-font-smoothing: antialiased; }
 
 .navbar { border-bottom: 1px solid #eceff1; box-shadow: none; }
-.navbar-brand { font-weight: 700; }
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
-h2, h3 { letter-spacing: 0; }
 h2 { margin-top: 2rem; }
 
 /* ---------- HERO (portada) ---------- */
 .hero {
   display: flex;
   align-items: center;
-  gap: 2.5rem;
-  margin: 1rem 0 2.75rem;
+  gap: 2.25rem;
+  margin: 1rem 0 2.5rem;
 }
 .hero-text  { flex: 1 1 auto; }
-.hero-photo { flex: 0 0 260px; }
+.hero-photo { flex: 0 0 200px; }
 .hero-photo img {
   width: 100%;
-  border-radius: 20px;
-  box-shadow: 0 12px 32px rgba(0,0,0,.14);
+  border-radius: 16px;
+  box-shadow: 0 10px 26px rgba(0,0,0,.13);
   display: block;
 }
 
@@ -44,26 +41,26 @@ h2 { margin-top: 2rem; }
   display: block;
   text-transform: uppercase;
   letter-spacing: .09em;
-  font-size: .8rem;
-  font-weight: 700;
+  font-size: .78rem;
+  font-weight: 600;
   color: #6b7681;
-  margin-bottom: .5rem;
+  margin-bottom: .45rem;
 }
 .hero-name {
-  font-size: clamp(2.5rem, 6.5vw, 4.3rem);
-  font-weight: 400;          /* letras finas, estilo LaTeX */
-  line-height: 1.07;
+  font-size: clamp(1.5rem, 3.2vw, 2rem);   /* mucho más pequeño */
+  font-weight: 700;
+  line-height: 1.15;
   margin: 0 0 .7rem;
 }
 .hero-name .name-2 { color: $primary; }
 
-/* Botones (sirven aquí y en la página de CV) */
+/* Botones (aquí y en la página de CV) */
 a.btn-hero {
   display: inline-block;
-  padding: .55rem 1.4rem;
-  margin: .25rem .55rem .25rem 0;
+  padding: .5rem 1.3rem;
+  margin: .25rem .5rem .25rem 0;
   border-radius: 8px;
-  font-weight: 700;
+  font-weight: 600;
   background: $primary;
   color: #fff !important;
   border: 2px solid $primary;
@@ -71,10 +68,16 @@ a.btn-hero {
 a.btn-hero:hover { opacity: .9; text-decoration: none; }
 a.btn-hero.outline { background: transparent; color: $primary !important; }
 
+/* Abstract con letra más pequeña (Research) */
+.abstract { font-size: .9rem; color: #333; }
+
+/* Nota pequeña bajo el curso (Teaching) */
+.course-note { font-size: .85rem; color: #6b7681; }
+
 /* ---------- Responsive ---------- */
 @media (max-width: 680px) {
-  .hero { flex-direction: column-reverse; gap: 1.25rem; align-items: flex-start; }
-  .hero-photo { flex: 0 0 auto; width: 170px; }
+  .hero { flex-direction: column-reverse; gap: 1.1rem; align-items: flex-start; }
+  .hero-photo { flex: 0 0 auto; width: 150px; }
 }
 
 .nav-footer { border-top: 1px solid #eceff1; font-size: .9rem; color: #6c757d; }

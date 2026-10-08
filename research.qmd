@@ -2,28 +2,19 @@
 title: "Research"
 ---
 
-## Working Paper
-
-### Teachers' Work-related Mental Health and Student Academic Performance
-
-Increased stress and burnout have raised policy concerns about teachers' work-related
-mental health and its consequences for students' outcomes. Using PISA 2022, which for the
-first time provides information on teachers' mental health, we analyse whether students in
-schools with high shares of teachers reporting that their job affects their mental health
-perform worse. We implement a quasi-experimental approach (propensity score weighting)
-combined with multilevel models. Our results indicate that students in high-exposure schools
-score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these
-students report lower levels of motivation and self-efficacy. This gap concentrates in schools
-where at least a third of teachers report such problems, and the estimates remain negative
-under stricter thresholds and an alternative matching estimator. Thus, as a policy
-recommendation, we suggest using teacher-reported mental health as a low-cost indicator to
-target support toward these schools.
-
 ## Work in Progress
 
-### Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023
+- **Teachers' Work-related Mental Health and Student Academic Performance**
 
+::: {.abstract}
+**Abstract:** Increased stress and burnout have raised policy concerns about teachers' work-related mental health and its consequences for students' outcomes. Using PISA 2022, which for the first time provides information on teachers' mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools.
+:::
+
+- **Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023**
+
+::: {.abstract}
 *Work in progress.*
+:::
 
 ## Conferences & Workshops
 
