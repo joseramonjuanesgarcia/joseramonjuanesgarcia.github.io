@@ -11,21 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools."
-  },
-  {
-    "objectID": "research.html#working-paper",
-    "href": "research.html#working-paper",
-    "title": "Research",
-    "section": "",
-    "text": "Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools."
+    "text": "Teachers’ Work-related Mental Health and Student Academic Performance\n\n\nAbstract: Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools.\n\n\nTeaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023\n\n\nWork in progress."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nTeaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023\nWork in progress."
+    "section": "",
+    "text": "Teachers’ Work-related Mental Health and Student Academic Performance\n\n\nAbstract: Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools.\n\n\nTeaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023\n\n\nWork in progress."
   },
   {
     "objectID": "research.html#conferences-workshops",
@@ -39,7 +32,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Economics · University of Valencia · 2025–2026 — Undergraduate course."
+    "text": "Introduction to Economics · University of Valencia · 2025–2026\n\nIntroductory microeconomics and macroeconomics."
   },
   {
     "objectID": "index.html",
@@ -53,6 +46,6 @@
     "href": "index.html#about",
     "title": "José Ramón Juanes García",
     "section": "About",
-    "text": "About\nI am a PhD candidate in Economics at the University of Valencia (Department of Economic Analysis), working in the economics of education and human capital development. My research studies how teaching quality, pedagogical practices, and education and social policies shape students’ outcomes, applying quasi-experimental and causal-inference methods to international large-scale assessment data such as PISA and TIMSS.\nMy current research includes:\n\nTeachers’ mental health and student achievement — how teachers’ work-related mental health relates to students’ cognitive and non-cognitive outcomes (PISA 2022).\nTeaching practices and achievement — teacher-led versus participatory practices, using within-student evidence from TIMSS 2023.\n\nBefore starting my PhD, I worked for a few years in the private sector — in consulting at Deloitte and in credit-risk analysis — after which I decided to return to academia to pursue research in the economics of education."
+    "text": "About\nI am a PhD candidate in Economics at the University of Valencia (Department of Economic Analysis), working in the economics of education and human capital development. My research studies how teaching quality, pedagogical practices, and education and social policies shape students’ outcomes.\nBefore starting my PhD, I worked for a few years in the private sector — in consulting at Deloitte — after which I decided to return to academia to pursue research in the economics of education."
   }
 ]
