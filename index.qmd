@@ -17,3 +17,21 @@ toc: false
   <div class="hero-photo"><img src="profile.jpg" alt="José Ramón Juanes García"></div>
 </section>
 ```
+
+## About
+
+I am a PhD candidate in Economics at the University of Valencia (Department of
+Economic Analysis), working in the **economics of education and human capital
+development**. My research studies how teaching quality, pedagogical practices,
+and education and social policies shape students' outcomes, applying
+quasi-experimental and causal-inference methods to international large-scale
+assessment data such as PISA and TIMSS.
+
+My current research includes:
+
+- **Teachers' mental health and student achievement** — how teachers' work-related mental health relates to students' cognitive and non-cognitive outcomes (PISA 2022).
+- **Teaching practices and achievement** — teacher-led versus participatory practices, using within-student evidence from TIMSS 2023.
+
+Before starting my PhD, I worked for a few years in the private sector — in
+consulting at Deloitte and in credit-risk analysis — after which I decided to
+return to academia to pursue research in the economics of education.

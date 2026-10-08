@@ -6,20 +6,22 @@ $link-color: #556b2f;
 $body-color: #1f2429;
 $body-bg:    #ffffff;
 
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+// Tipografía estilo LaTeX (Computer Modern) — la fuente se carga en _quarto.yml
+$font-family-base:     "Computer Modern Serif", Georgia, "Times New Roman", serif;
+$headings-font-family: "Computer Modern Serif", Georgia, "Times New Roman", serif;
 $headings-font-weight: 700;
 $font-size-root: 18px;
 
 /*-- scss:rules --*/
 
-body { line-height: 1.6; -webkit-font-smoothing: antialiased; }
+body { line-height: 1.6; }
 
 .navbar { border-bottom: 1px solid #eceff1; box-shadow: none; }
 .navbar-brand { font-weight: 700; }
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
-h2, h3 { letter-spacing: -0.01em; }
+h2, h3 { letter-spacing: 0; }
 h2 { margin-top: 2rem; }
 
 /* ---------- HERO (portada) ---------- */
@@ -42,33 +44,26 @@ h2 { margin-top: 2rem; }
   display: block;
   text-transform: uppercase;
   letter-spacing: .09em;
-  font-size: .78rem;
-  font-weight: 600;
+  font-size: .8rem;
+  font-weight: 700;
   color: #6b7681;
   margin-bottom: .5rem;
 }
 .hero-name {
-  font-size: clamp(2.4rem, 6vw, 4rem);
-  font-weight: 800;
-  line-height: 1.04;
-  letter-spacing: -0.025em;
-  margin: 0 0 .6rem;
+  font-size: clamp(2.5rem, 6.5vw, 4.3rem);
+  font-weight: 400;          /* letras finas, estilo LaTeX */
+  line-height: 1.07;
+  margin: 0 0 .7rem;
 }
 .hero-name .name-2 { color: $primary; }
-.hero-tagline {
-  display: block;
-  font-size: 1.05rem;
-  color: #51606b;
-  margin-bottom: 1.5rem;
-}
 
-/* Botones estilo Pilar (sirven aquí y en la página de CV) */
+/* Botones (sirven aquí y en la página de CV) */
 a.btn-hero {
   display: inline-block;
-  padding: .62rem 1.5rem;
+  padding: .55rem 1.4rem;
   margin: .25rem .55rem .25rem 0;
   border-radius: 8px;
-  font-weight: 600;
+  font-weight: 700;
   background: $primary;
   color: #fff !important;
   border: 2px solid $primary;
