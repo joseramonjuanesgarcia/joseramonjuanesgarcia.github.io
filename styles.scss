@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+
+// Paleta — cambia el acento a tu gusto
+$primary:        #2c5f8a;      // <-- EDITA: color de acento
+$link-color:     #2c5f8a;
+$body-color:     #1f2529;
+$body-bg:        #ffffff;
+
+// Tipografía basada en fuentes del sistema (sin dependencias externas)
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$font-size-root: 18px;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.015em;
+}
+
+// Barra de navegación limpia con una línea inferior sutil
+.navbar {
+  border-bottom: 1px solid #e9ecef;
+  box-shadow: none;
+}
+
+// Subtítulo bajo el nombre en la home
+.subtitle {
+  color: #5a6570;
+  font-weight: 400;
+}
+
+// Botones de PDF/Slides más discretos
+.btn-sm {
+  margin: 0.15rem 0.25rem 0.15rem 0;
+}
+
+// Enlaces con subrayado suave al pasar el cursor
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+// Pie de página discreto
+.nav-footer {
+  border-top: 1px solid #e9ecef;
+  font-size: 0.9rem;
+  color: #6c757d;
+}

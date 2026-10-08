@@ -1,0 +1,54 @@
+# ============================================================
+#  CONFIGURACIÓN DEL SITIO  ·  edita lo marcado con  # <-- EDITA
+#  Docs: https://quarto.org/docs/websites/
+# ============================================================
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "José Ramón Juanes García"
+  description: "PhD Candidate in Economics — University of Valencia"
+  site-url: "https://TUUSUARIO.github.io"        # <-- EDITA cuando publiques
+  favicon: profile.svg
+
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right:
+      - icon: envelope
+        href: "mailto:jose.r.juanes@uv.es"
+        aria-label: Email
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/joseramonjuanes"
+        aria-label: LinkedIn
+      # Cuando los tengas, descomenta y rellena:
+      # - icon: mortarboard-fill
+      #   href: "https://scholar.google.com/citations?user=XXXX"
+      #   aria-label: Google Scholar
+      # - icon: github
+      #   href: "https://github.com/TUUSUARIO"
+      #   aria-label: GitHub
+
+  page-footer:
+    border: true
+    left: "© 2026 José Ramón Juanes García"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px
