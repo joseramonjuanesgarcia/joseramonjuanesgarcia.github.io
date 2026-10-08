@@ -7,115 +7,45 @@
     "text": "Download CV (PDF)"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nPhD Candidate in Economics, University of Valencia · 2024–present\n\nEconomics of education; teaching quality and pedagogical practices.\n\n\nMSc in Economics, University of Valencia · 2018–2019\n\nBSc in Economics, University of Valencia · 2014–2018\n\nIncluding an Erasmus exchange year at the University of Lille 1 — Sciences et Technologies, France (2017–2018)."
-  },
-  {
-    "objectID": "cv.html#research-fields",
-    "href": "cv.html#research-fields",
-    "title": "Curriculum Vitae",
-    "section": "Research Fields",
-    "text": "Research Fields\nEconomics of education & human capital · Applied microeconometrics · Causal inference · Public policy evaluation"
-  },
-  {
-    "objectID": "cv.html#work-in-progress",
-    "href": "cv.html#work-in-progress",
-    "title": "Curriculum Vitae",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nActive and Passive Teaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023.\nTeachers’ Work-related Mental Health and Student Academic Performance.\n\nSee the Research page for details."
-  },
-  {
-    "objectID": "cv.html#presentations",
-    "href": "cv.html#presentations",
-    "title": "Curriculum Vitae",
-    "section": "Presentations",
-    "text": "Presentations\n\n2026 — LESE – Lisbon Economics and Statistics of Education, Carcavelos, Lisbon (Portugal).\n2025 — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy)."
-  },
-  {
-    "objectID": "cv.html#research-projects",
-    "href": "cv.html#research-projects",
-    "title": "Curriculum Vitae",
-    "section": "Research Projects",
-    "text": "Research Projects\n\nChallenges and Opportunities of Population Ageing (CPI-24-839) · 2024–present\n\nDeterminants of Public Expenditure Needs in a Decentralized State. Grants for the support of research groups in public economics. PI: José Manuel Pastor Monsálvez."
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n\nIntroduction to Economics · 2025–2026\n\nUndergraduate — Faculty of Economics, Department of Economic Analysis, University of Valencia."
-  },
-  {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
-    "title": "Curriculum Vitae",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nSovereign & Sub-Sovereign Research Analyst, EthiFinance Ratings, Madrid · 2023–2024\n\nEvaluated sovereign and sub-sovereign creditworthiness, incorporating ESG factors into the rating process; assessed public financing structures and fiscal sustainability across European countries.\n\nSenior Consultant, Risk Advisory (FSI), Deloitte, Madrid · 2019–2023\n\nAnalyzed loan-loss provisions under IFRS 9 models and contributed to Basel Pillar III reporting for European financial institutions."
-  },
-  {
-    "objectID": "cv.html#skills-languages",
-    "href": "cv.html#skills-languages",
-    "title": "Curriculum Vitae",
-    "section": "Skills & Languages",
-    "text": "Skills & Languages\n\nSoftware: Stata, R, LaTeX, Microsoft Office\nLanguages: Spanish (native) · Valencian (C1) · French (B2) · English (C1)"
-  },
-  {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "Curriculum Vitae",
-    "section": "Contact",
-    "text": "Contact\njose.r.juanes@uv.es · University of Valencia"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Work in progress\nUsing within-student variation across subjects in TIMSS 2023, this paper studies how active versus passive teaching practices relate to student achievement.\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\n(Añade aquí el abstract cuando lo tengas.)\n\n\n\n\n\n\n\n\nWork in progress\nThis project studies the relationship between teachers’ work-related mental health and their students’ academic performance.\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\n(Añade aquí el abstract cuando lo tengas.)"
+    "text": "Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools."
+  },
+  {
+    "objectID": "research.html#working-paper",
+    "href": "research.html#working-paper",
+    "title": "Research",
+    "section": "",
+    "text": "Increased stress and burnout have raised policy concerns about teachers’ work-related mental health and its consequences for students’ outcomes. Using PISA 2022, which for the first time provides information on teachers’ mental health, we analyse whether students in schools with high shares of teachers reporting that their job affects their mental health perform worse. We implement a quasi-experimental approach (propensity score weighting) combined with multilevel models. Our results indicate that students in high-exposure schools score 0.09–0.13 SD lower in mathematics, science and reading. We also find that these students report lower levels of motivation and self-efficacy. This gap concentrates in schools where at least a third of teachers report such problems, and the estimates remain negative under stricter thresholds and an alternative matching estimator. Thus, as a policy recommendation, we suggest using teacher-reported mental health as a low-cost indicator to target support toward these schools."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
-    "section": "",
-    "text": "Work in progress\nUsing within-student variation across subjects in TIMSS 2023, this paper studies how active versus passive teaching practices relate to student achievement.\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\n(Añade aquí el abstract cuando lo tengas.)\n\n\n\n\n\n\n\n\nWork in progress\nThis project studies the relationship between teachers’ work-related mental health and their students’ academic performance.\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\n(Añade aquí el abstract cuando lo tengas.)"
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nTeaching Practices and Student Achievement: Within-Student Evidence from TIMSS 2023\nWork in progress."
   },
   {
-    "objectID": "research.html#presentations",
-    "href": "research.html#presentations",
+    "objectID": "research.html#conferences-workshops",
+    "href": "research.html#conferences-workshops",
     "title": "Research",
-    "section": "Presentations",
-    "text": "Presentations\n\n2026 — LESE – Lisbon Economics and Statistics of Education, Carcavelos, Lisbon (Portugal).\n2025 — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy)."
+    "section": "Conferences & Workshops",
+    "text": "Conferences & Workshops\n\n2026 — LESE – Lisbon Economics and Statistics of Education, Lisbon (Portugal).\n2026 — VI Workshop of Young Researchers, Department of Economic Analysis, University of Valencia.\n2025 — I Valencian Economics of Education Conference, University of Valencia.\n2025 — XXXIII Meeting of the Economics of Education Association (AEDE), Milan (Italy)."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Economics · 2025–2026\n\nUndergraduate course — Faculty of Economics, Department of Economic Analysis."
-  },
-  {
-    "objectID": "teaching.html#university-of-valencia",
-    "href": "teaching.html#university-of-valencia",
-    "title": "Teaching",
-    "section": "",
-    "text": "Introduction to Economics · 2025–2026\n\nUndergraduate course — Faculty of Economics, Department of Economic Analysis."
-  },
-  {
-    "objectID": "teaching.html#teaching-interests",
-    "href": "teaching.html#teaching-interests",
-    "title": "Teaching",
-    "section": "Teaching Interests",
-    "text": "Teaching Interests\nEconomics of education · Microeconomics · Statistics and econometrics"
+    "text": "Introduction to Economics · University of Valencia · 2025–2026 — Undergraduate course."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "José Ramón Juanes García",
     "section": "",
-    "text": "I am a PhD candidate in Economics at the University of Valencia. My research lies in the economics of education and human capital development, with a focus on teaching quality and pedagogical practices, which I study using causal-inference methods.\nMy current work examines how active and passive teaching practices affect student achievement — using within-student evidence from TIMSS 2023 — and how teachers’ work-related mental health relates to student outcomes.\nBefore returning to academia, I worked as a research analyst and risk-advisory consultant in the financial sector (EthiFinance Ratings, Deloitte).\n\nResearch interests\n\nEconomics of education & human capital\nTeaching quality and pedagogical practices\nApplied microeconometrics · causal inference\nPublic policy evaluation\n\n\n\nNews\n\n2026 — Presenting at LESE (Lisbon Economics and Statistics of Education), Lisbon.\n2025 — Presented at the XXXIII AEDE Meeting (Economics of Education Association), Milan."
+    "text": "PhD Candidate in Economics · University of Valencia\n    José Ramón Juanes García\n    \n      LinkedIn\n      Contact\n      CV"
   }
 ]
