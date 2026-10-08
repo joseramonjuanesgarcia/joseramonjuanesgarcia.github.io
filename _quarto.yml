@@ -10,7 +10,7 @@ project:
 website:
   title: "José Ramón Juanes García"
   description: "PhD Candidate in Economics — University of Valencia"
-  site-url: "https://TUUSUARIO.github.io"        # <-- EDITA cuando publiques
+  site-url: "https://joseramonjuanesgarcia.github.io"
   favicon: profile.svg
 
   navbar:
